@@ -5,7 +5,7 @@
     "getKeyUrl": "https://t.me/ANSHU_HACKER",
     "imageUrl": "https://raw.githubusercontent.com/anshuhacker01/anshu-panal-db/refs/heads/main/AnshuHacks.png",
     "loginBtnText": "AUTHENTICATE",
-    "maintenanceMode": true,
+    "maintenanceMode": false,
     "maintenanceMsg": "Anshu Hacks server is temporarily down for maintenance.",
     "statusBadge": "SECURE",
     "tags": [
