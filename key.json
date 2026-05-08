@@ -37,6 +37,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "DPMods-IPH3G0": {
+      "hwid": "926415583B2AA0D0",
+      "expireDate": "2026-05-09",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
