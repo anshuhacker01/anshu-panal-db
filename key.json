@@ -22,14 +22,6 @@
     "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
   },
   "Keys": {
-    "DPMods-Z50FZH": {
-      "hwid": "B8763C974CAA6DE6",
-      "expireDate": "2026-06-03",
-      "isBanned": false,
-      "banReason": "Test Key",
-      "userRank": "Supreme User",
-      "freezeAccount": false
-    },
     "DPMods-IPH3G0": {
       "hwid": "926415583B2AA0D0",
       "expireDate": "2026-05-09",
