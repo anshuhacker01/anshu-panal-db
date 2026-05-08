@@ -15,7 +15,7 @@
     ],
     "title": "ANSHU HACKS",
     "updateMsg": "New Anshu Hacks version available! Please update.",
-    "updateRequired": false,
+    "updateRequired": true,
     "updateUrl": "https://t.me/+pnY2kUQz7QBkYmU9"
   },
   "BannedHWIDs": {
